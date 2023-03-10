@@ -1,7 +1,35 @@
-.text-center{
+.text-center {
     text-align: center;
 }
 
-footer *{
-    color:rgb(134, 134, 134);
+footer * {
+    color: rgb(134, 134, 134);
+}
+
+.introduce {
+    width: 900px;
+    margin: 0 auto;
+}
+
+div#introduce-img{
+    width: fit-content;
+    margin: 0 auto;
+}
+
+.text-color-white{
+    color:white;
+}
+
+.border-green{
+    border: 1px solid green;
+}
+
+.background-green{
+    background-color: #005f27;
+    font-size: 25px
+}
+
+.note{
+    font-size: 15px;
+    font-style: italic;
 }
