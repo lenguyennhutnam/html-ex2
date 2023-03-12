@@ -11,25 +11,32 @@ footer * {
     margin: 0 auto;
 }
 
-div#introduce-img{
+div.introduce-img {
     width: fit-content;
     margin: 0 auto;
+    font-size: 15px;
+    font-style: italic;
+    text-align: center;
 }
 
-.text-color-white{
-    color:white;
+.text-color-white {
+    color: white;
 }
 
-.border-green{
+.border-green {
     border: 1px solid green;
 }
 
-.background-green{
+.background-green {
     background-color: #005f27;
     font-size: 25px
 }
 
-.note{
+.note {
     font-size: 15px;
     font-style: italic;
+}
+
+.para {
+    text-indent: 35px;
 }
