@@ -1,0 +1,52 @@
+.note {
+    font-size: 15px;
+    font-style: italic;
+}
+
+.text-uppercase {
+    text-transform: uppercase;
+}
+
+.text-lowercase {
+    text-transform: lowercase;
+}
+
+.text-capitalize {
+    text-transform: capitalize;
+}
+
+/* căn lề */
+.text-center {
+    text-align: center;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+
+/* Độ đậm nhạt */
+.font-weight-normal {
+    font-weight: normal;
+}
+
+.font-weight-bold {
+    font-weight: bold;
+}
+
+.font-weight-light {
+    font-weight: 300;
+}
+
+/* in nghiêng */
+.text-italic {
+    font-style: italic;
+}
